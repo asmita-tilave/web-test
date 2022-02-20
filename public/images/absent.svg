@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="196.953" height="51.574" viewBox="0 0 196.953 51.574">
+  <defs>
+    <filter id="Path_64259" x="75.751" y="9.06" width="121.043" height="39.454" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-color="#262a30" flood-opacity="0.122"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f79b4f"/>
+      <stop offset="1" stop-color="#f76840"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="absent" transform="translate(-822.803 -263.192)">
+    <g transform="matrix(1, 0, 0, 1, 822.8, 263.19)" filter="url(#Path_64259)">
+      <path id="Path_64259-2" data-name="Path 64259" d="M690.776,231.608h-81.59a16.728,16.728,0,0,0-16.727,16.727h0a16.728,16.728,0,0,0,16.727,16.727h81.59A16.727,16.727,0,0,0,707.5,248.335h0A16.727,16.727,0,0,0,690.776,231.608Z" transform="translate(-511.71 -222.55)" fill="#fff"/>
+    </g>
+    <path id="Path_64258" data-name="Path 64258" d="M682.738,229.547h-81.59a17.884,17.884,0,0,0-15.042,8.226h0c-3.755,5.922-12.152,6.865-18.15,6.865s-12.937-4.789-16.408-10.492h0a25.788,25.788,0,1,0,0,26.574v0c3.471-5.7,10.41-10.492,16.408-10.492s14.4.942,18.15,6.865h0a17.883,17.883,0,0,0,15.042,8.225h81.59a17.886,17.886,0,0,0,0-35.772ZM529.458,270.9a23.468,23.468,0,1,1,23.467-23.468A23.495,23.495,0,0,1,529.458,270.9Zm153.28-7.9h-81.59a15.567,15.567,0,0,1,0-31.135h81.59a15.567,15.567,0,0,1,0,31.135Z" transform="translate(319.132 41.546)" fill="url(#linear-gradient)"/>
+    <ellipse id="Ellipse_1376" data-name="Ellipse 1376" cx="16.135" cy="16.135" rx="16.135" ry="16.135" transform="translate(825.754 291.098) rotate(-50.118)" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>
